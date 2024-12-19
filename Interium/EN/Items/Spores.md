@@ -1,1 +1,1 @@
-[[Mortar and pestle]] [[Minokea]]
+[[Mortar and pestle]] [[EN/Blocks/Minokea]]

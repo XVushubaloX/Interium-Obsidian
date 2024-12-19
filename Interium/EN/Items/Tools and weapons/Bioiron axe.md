@@ -1,1 +1,1 @@
-[[Interium/EN/Items/Bioiron]]
+[[Bioiron]]

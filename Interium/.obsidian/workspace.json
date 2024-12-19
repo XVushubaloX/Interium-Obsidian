@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "61d3f911d11dc996",
+    "type": "split",
+    "children": [
+      {
+        "id": "6da19976150c2ac8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f932f0c3d52a262",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Нова вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d7cc1fc933faef6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d542483d27f0ecca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3988054cf87c2f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловий менеджер"
+            }
+          },
+          {
+            "id": "a12a73f9ce3b110e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Пошук"
+            }
+          },
+          {
+            "id": "709bbf44b139e9a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "33b2c4a367032648",
+    "type": "split",
+    "children": [
+      {
+        "id": "55b348829ac9b3fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3038101f105e2bd0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "EN/Blocks/Mitochondria block.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Зворотні посилання для Mitochondria block"
+            }
+          },
+          {
+            "id": "98082da8c0b46b0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "EN/Blocks/Mitochondria block.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Вихідні посилання з Mitochondria block"
+            }
+          },
+          {
+            "id": "5eb0bb4b754f4c73",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Мітки"
+            }
+          },
+          {
+            "id": "141c8826ed0c1877",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "EN/Blocks/Mitochondria block.md"
+              },
+              "icon": "lucide-list",
+              "title": "Вміст Mitochondria block"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false
+    }
+  },
+  "active": "3f932f0c3d52a262",
+  "lastOpenFiles": [
+    "UA/Блоки/Блок біозаліза.md",
+    "UA/Блоки/Мінокея.md",
+    "UA/Блоки/Блок чистого хлорофілу.md",
+    "UA/Блоки/Блок мітохондрій.md",
+    "UA/Предмети/Спори.md",
+    "UA/Блоки/Блок хлорофілу.md",
+    "UA/Блоки/Блок забрудненого хлорофілу.md",
+    "EN/Blocks/Bioiron block.md",
+    "EN/Items/Bioiron.md",
+    "EN/Items/Tools and weapons/Bioiron axe.md",
+    "EN/Items/Tools and weapons/Bioiron sword.md",
+    "UA/Предмети/Інструменти та зроя/Кайло з біозаліза.md",
+    "UA/Предмети/Інструменти та зроя/Лопата з біозаліза.md",
+    "UA/Предмети/Інструменти та зроя/Меч з біозаліза.md",
+    "UA/Предмети/Інструменти та зроя/Мотика з біозаліза.md",
+    "UA/Предмети/Інструменти та зроя/Сокира з біозаліза.md",
+    "UA/Предмети/Біосталь.md",
+    "UA/Предмети/Біозалізо.md",
+    "UA/Предмети/Відро біо-олії.md",
+    "UA/Предмети/Відро розчину спор.md",
+    "UA/Предмети/Забруднений хлорофіл.md",
+    "UA/Предмети/Мітохондрії.md",
+    "EN/Blocks/Minokea.md",
+    "UA/Предмети/Ступка з товкачиком.md",
+    "UA/Предмети/Хлорофіл.md",
+    "UA/Предмети/Чистий хлорофіл.md"
+  ]
+}
