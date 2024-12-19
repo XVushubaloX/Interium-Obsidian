@@ -1,0 +1,2 @@
+![[minokea.png]]
+Minokeya?
