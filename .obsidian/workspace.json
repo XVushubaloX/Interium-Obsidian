@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "041a16af43079884",
+        "id": "7b9c224adc1632d5",
         "type": "tabs",
         "children": [
           {
-            "id": "e94fc0cd6fcd7a73",
+            "id": "bce921764d660c02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Interium/EN/Items/Raw bioiron piece.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Raw bioiron piece"
             }
           }
         ]
@@ -154,6 +158,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e94fc0cd6fcd7a73",
-  "lastOpenFiles": []
+  "active": "bce921764d660c02",
+  "lastOpenFiles": [
+    "Interium/EN/Items/Biooil bucket.md",
+    "Interium/EN/Items/Raw bioiron piece.md",
+    "Untitled.canvas",
+    "Interium/EN/Items/Spore solution bucket.md",
+    "Interium/EN/Items/Spores.md",
+    "Interium/EN/Blocks/Minokea.md",
+    "Interium/EN/Items/Chlorophyll.md",
+    "Interium/EN/Items/Mitochondria.md",
+    "Interium/EN/Items/Contaminated chlorophyll.md",
+    "Interium/EN/Items/Mortar and pestle.md",
+    "Interium/EN/Blocks/Mitochondria block.md",
+    "Interium/EN/Items/Biosteel.md",
+    "Interium/EN/Blocks/Bioiron block.md",
+    "Untitled 1.canvas",
+    "Interium/EN/Blocks/Pure chlorophyll block.md",
+    "Interium/EN/Blocks/Chlorophyll block.md",
+    "Interium/EN/Blocks/Contaminated chlorophyll block.md",
+    "Interium/EN/Items/Tools and weapons/Bioiron showel.md",
+    "Interium/EN/Items/Tools and weapons/Bioiron hoe.md",
+    "Interium/EN/Items/Tools and weapons/Bioiron pickaxe.md",
+    "Interium/EN/Items/Tools and weapons/Bioiron sword.md",
+    "Interium/EN/Items/Tools and weapons/Bioiron axe.md",
+    "Interium/EN/Items/Bioiron.md",
+    "Interium/EN/Items/Pure chlorophyll.md",
+    "Interium/EN/Interium.md",
+    "Interium/EN/Items/Tools and weapons",
+    "Interium/EN/Items/Ingredients",
+    "Interium/EN/Mobs",
+    "Interium/EN/Items",
+    "Interium/EN/Blocks",
+    "Interium/EN",
+    "Interium/UA",
+    "UA"
+  ]
 }
