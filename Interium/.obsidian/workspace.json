@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EN/Items/Bioiron.md",
+                "file": "UA/Предмети/Відро розчину спор.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bioiron"
+              "title": "Відро розчину спор"
             }
           }
         ]
@@ -164,6 +164,9 @@
   },
   "active": "3f932f0c3d52a262",
   "lastOpenFiles": [
+    "UA/Предмети/Відро біонафта.md",
+    "UA/Предмети/Відро розчину спор.md",
+    "EN/Items/Bioiron.md",
     "UA/Предмети/Біозалізо.md",
     "bioiron (2).png",
     "EN/Items/Biooil bucket.md",
@@ -172,7 +175,6 @@
     "Chlorophyll — .png",
     "night_core.png",
     "waater_bucket_1024x1024.png",
-    "UA/Предмети/Відро біо-олії.md",
     "biooil_bucket.png",
     "UA/Предмети/Забруднений хлорофіл.md",
     "EN/Items/Contaminated chlorophyll.md",
@@ -183,7 +185,6 @@
     "chlorophyll.png",
     "EN/Items/Mitochondria.md",
     "UA/Предмети/Мітохондрії.md",
-    "UA/Предмети/Відро розчину спор.md",
     "EN/Items/Spore solution bucket.md",
     "EN/Items/Spores.md",
     "UA/Предмети/Спори.md",
@@ -195,7 +196,6 @@
     "UA/Блоки/Мінокея.md",
     "EN/Items/Biosteel.md",
     "UA/Предмети/Біосталь.md",
-    "EN/Items/Bioiron.md",
     "EN/Items/Tools and weapons/Bioiron axe.md",
     "EN/Items/Tools and weapons/Bioiron sword.md",
     "UA/Предмети/Інструменти та зроя/Сокира з біозаліза.md"
