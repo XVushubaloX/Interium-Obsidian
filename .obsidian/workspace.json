@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interium/EN/Items/Raw bioiron piece.md",
+                "file": "Interium/EN/Items/Spore solution bucket.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Raw bioiron piece"
+              "title": "Spore solution bucket"
             }
           }
         ]
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Interium/EN/Items/Spore solution bucket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Spore solution bucket"
             }
           },
           {
@@ -160,18 +161,22 @@
   },
   "active": "bce921764d660c02",
   "lastOpenFiles": [
-    "Interium/EN/Items/Biooil bucket.md",
     "Interium/EN/Items/Raw bioiron piece.md",
-    "Untitled.canvas",
-    "Interium/EN/Items/Spore solution bucket.md",
-    "Interium/EN/Items/Spores.md",
-    "Interium/EN/Blocks/Minokea.md",
+    "Interium/EN/Items/Pure chlorophyll.md",
+    "Interium/EN/Items/Mortar and pestle.md",
+    "Interium/EN/Items/Contaminated chlorophyll.md",
+    "Interium/EN/Items/Biosteel.md",
+    "Interium/EN/Items/Bioiron.md",
+    "Interium/EN/Items/Biooil bucket.md",
     "Interium/EN/Items/Chlorophyll.md",
     "Interium/EN/Items/Mitochondria.md",
-    "Interium/EN/Items/Contaminated chlorophyll.md",
-    "Interium/EN/Items/Mortar and pestle.md",
+    "Interium/EN/Items/Spores.md",
+    "Interium/EN/Items/Spore solution bucket.md",
+    "Interium/EN/Items/Tools and weapons/Bioiron sword.md",
+    "Interium/EN/Items/Tools and weapons/Bioiron axe.md",
+    "Untitled.canvas",
+    "Interium/EN/Blocks/Minokea.md",
     "Interium/EN/Blocks/Mitochondria block.md",
-    "Interium/EN/Items/Biosteel.md",
     "Interium/EN/Blocks/Bioiron block.md",
     "Untitled 1.canvas",
     "Interium/EN/Blocks/Pure chlorophyll block.md",
@@ -180,10 +185,6 @@
     "Interium/EN/Items/Tools and weapons/Bioiron showel.md",
     "Interium/EN/Items/Tools and weapons/Bioiron hoe.md",
     "Interium/EN/Items/Tools and weapons/Bioiron pickaxe.md",
-    "Interium/EN/Items/Tools and weapons/Bioiron sword.md",
-    "Interium/EN/Items/Tools and weapons/Bioiron axe.md",
-    "Interium/EN/Items/Bioiron.md",
-    "Interium/EN/Items/Pure chlorophyll.md",
     "Interium/EN/Interium.md",
     "Interium/EN/Items/Tools and weapons",
     "Interium/EN/Items/Ingredients",
