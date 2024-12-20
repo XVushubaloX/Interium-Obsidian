@@ -6,22 +6,7 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "path:Interium/EN  ",
-      "color": {
-        "a": 1,
-        "rgb": 6299132
-      }
-    },
-    {
-      "query": "path:Interium/UA  ",
-      "color": {
-        "a": 1,
-        "rgb": 16767519
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -32,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.36288736930122983,
+  "scale": 0.5087618855792878,
   "close": false
 }

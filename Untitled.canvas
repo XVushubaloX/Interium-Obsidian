@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"2556ae68d5ceeb3a","type":"file","file":"Interium/Photos/bioiron (2).png","x":-880,"y":233,"width":400,"height":400},
+		{"id":"981380484e0b2355","type":"file","file":"Interium/Photos/bioiron (3).png","x":-880,"y":-227,"width":400,"height":400},
+		{"id":"cf3e1aaed3e9eaef","type":"file","file":"Interium/Photos/bioiron.png","x":-400,"y":233,"width":400,"height":400},
+		{"id":"f02dbddc3929578d","type":"file","file":"Interium/Photos/bioiron_axe.png","x":-400,"y":-227,"width":400,"height":400},
+		{"id":"7c0782e0e03b40b6","type":"file","file":"Interium/Photos/bioiron_hoe.png","x":80,"y":-227,"width":400,"height":400},
+		{"id":"9f934caded168948","type":"file","file":"Interium/Photos/bioiron_pickaxe.png","x":80,"y":233,"width":400,"height":400},
+		{"id":"9e574aa76163650e","type":"file","file":"Interium/Photos/bioiron_shovel.png","x":-880,"y":720,"width":400,"height":400},
+		{"id":"d0ac2d66ee535369","type":"file","file":"Interium/Photos/bioiron_sword.png","x":-400,"y":720,"width":400,"height":400},
+		{"id":"2c81008ee3812feb","type":"file","file":"Interium/Photos/biooil_bucket.png","x":80,"y":720,"width":400,"height":400},
+		{"id":"31c8f40816417c36","type":"file","file":"Interium/Photos/biosteel.png","x":-880,"y":1200,"width":400,"height":400},
+		{"id":"98793c8f3e976a96","type":"file","file":"Interium/Photos/chlorophyll.png","x":-400,"y":1200,"width":400,"height":400},
+		{"id":"89bf3148ec7d5ec8","type":"file","file":"Interium/Photos/contaminated_chlorophyll.png","x":80,"y":1200,"width":400,"height":400},
+		{"id":"91b455c04fba61f3","type":"file","file":"Interium/Photos/minokea.png","x":-400,"y":1680,"width":400,"height":400},
+		{"id":"8e076b0c59a0b1eb","type":"file","file":"Interium/Photos/mitochondria.png","x":80,"y":1680,"width":400,"height":400},
+		{"id":"7091ac3b63853211","type":"file","file":"Interium/Photos/mortar_and_pistle.png","x":-880,"y":2160,"width":400,"height":400},
+		{"id":"b2e7e3a29e9fbdf7","type":"file","file":"Interium/Photos/night_core.png","x":-400,"y":2160,"width":400,"height":400},
+		{"id":"a142164c39c1550b","type":"file","file":"Interium/Photos/pure_clorophyll.png","x":80,"y":2160,"width":400,"height":400},
+		{"id":"4c8d852f37eccdba","type":"file","file":"Interium/Photos/spore.png","x":-880,"y":2640,"width":400,"height":400},
+		{"id":"d0e48f61f12defb5","type":"file","file":"Interium/Photos/spore_solution_bucket.png","x":-880,"y":1680,"width":400,"height":400}
+	],
+	"edges":[]
+}

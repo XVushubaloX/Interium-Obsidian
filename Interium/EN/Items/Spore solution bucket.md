@@ -1,2 +1,2 @@
 [[Spores]]
-![[spore_solution bucket.png]]
+![[spore_solution_bucket.png]]
