@@ -1,1 +1,2 @@
-[[Interium/EN/Items/Bioiron]]
+[[Bioiron]]
+![[bioiron_axe.png]]
